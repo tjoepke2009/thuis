@@ -70,6 +70,9 @@
 
    + bureau wordt zithoek samen met tv hoek
 
+   + in tv hoek DVB-T en DVB-S aansluitingen (Schotel opties op dak of bij tuinhuis, 
+     zuidgericht)
+
    + in tv hoek 3 netwerkkabels (een aan de tv op de grond en een voor de wifi
      router aan plafond). Tv zouden we zetten tegen de muur van de schouw (in tv
      hoek zijde)
@@ -169,6 +172,7 @@
   + inmaakkasten voor de dakkamers – gezien ruimtes niet overal 2m hoog zijn?
     Efficiënt inrichten??
 
+# ALGEMEEN
   + Nieuwe vloer zowel onder als boven – we denken aan tegels gezien duurzaam
     karakter en beperkter in onderhoud. We zijn bij Verbeemden in Rotselaar gaan
     informeren en een licht grijze steen 60x60 stond ons wel aan (we hebben
@@ -186,10 +190,10 @@
     luchtaanvoer buizen van huidige B herbruikbaar (zijn ze breed genoeg – we
     willen geen D systeem met geluidshinder owv te dunne buizen). Ofwel een C+
     systeem (luchtaanvoer is er al door systeem B) met gestuurde afzuiging in
-    badkamer, wc, keuken, garage (vb als licht aangaat, timer, vochtsensor...)
+    badkamer, wc, keuken, garage (vb als licht aangaat via een drukknop en 
+    uitgaat via timer, vochtsensor...)
 
-# ALGEMEEN
-  + Rookmelders (van type dat signaal aan elkaar doorgeeft met kable)
+  + Rookmelders (van type dat signaal aan elkaar doorgeeft met SVV kabel)
 
   + verlichting beneden moderniseren – we dachten aan HUE systeem van Philips
     zodat we niet afhankelijk zijn van schakelaars, boven eettafel,
@@ -204,7 +208,8 @@
 
   + traphal bovenaan barsten dichten
 
-  + dakramen en de grote kamer vooraan: rolluiken
+  + grote kamer vooraan en tv hoek met bureau: rolluiken (bureau van voor is
+    misschien niet nodig owv carport)
 
   + carport voor twee auto’s (of 1?)– afhankelijk van de kostprijs zouden we
     willen voorzien dat hier een fietsenstalling mee in zit – opening naar tuin
