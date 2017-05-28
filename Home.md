@@ -77,8 +77,8 @@
      router aan plafond). Tv zouden we zetten tegen de muur van de schouw (in tv
      hoek zijde)
 
-   + in tv hoek aan tv minstens 5 stopcontacten (router, tv, settopbox, appletv,
-     computer)
+   + in tv hoek aan tv minstens 6 stopcontacten (router, tv, settopbox, appletv,
+     computer en extra)
 
    + bibliotheek wordt bureau
 
@@ -104,7 +104,7 @@
 
    + nodige stopcontacten, lichtschakelaars, netwerkkabels: 3 netwerkkabels (één
      voor elke werkpost) – 6 stopcontacten (twee per werkpost – computer en
-     lamp). De data en lamp stopcontacten moeten ster geschakeld zijn.
+     lamp en extra). De data en lamp stopcontacten moeten ster geschakeld zijn.
 
    Ter info: de haard op het plan is geen rechte blok maar schuine muur – zie
    foto’s.
@@ -151,7 +151,7 @@
   + extra kamer voorzien in wat nu dressing staat op plan.
 
   + nodige stopcontacten, lichtschakelaars, aansluitingen in alle kamers
-    voorzien en twee stopcontacten – bureau en lamp
+    voorzien en drie stopcontacten – bureau, lamp, extra
 
   + deur in zithoek zodat dit slaapkamer kan worden
 
