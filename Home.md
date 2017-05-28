@@ -63,13 +63,15 @@
 
    + verwarming in bureau en bib voorzien, ligt nu geen vloerverwarming. Van
      Masser (installateur) bericht gekregen dat extra lus op warmtepomp
-     aansluiten geen optie is – Er zijn twee warmtepompen - één beneden en één voor boven. Elk bestaat uit  4 lussen      buiten die overeenkomen met 4 lussen binnen. Het is momenteel ook niet duidelijk of de vloerisolatie
-     zoals door Masser gevraagd werd bij installatie ook in deze twee ruimtes
-     voorzien is gezien ze niet met vloerverwarming voorzien zijn.
+     aansluiten geen optie is – Er zijn twee warmtepompen - één beneden en één
+     voor boven. Elk bestaat uit 4 lussen buiten die overeenkomen met 4 lussen
+     binnen. Het is momenteel ook niet duidelijk of de vloerisolatie zoals door
+     Masser gevraagd werd bij installatie ook in deze twee ruimtes voorzien is
+     gezien ze niet met vloerverwarming voorzien zijn.
 
    + bureau wordt zithoek samen met tv hoek
 
-   + in tv hoek DVB-T en DVB-S aansluitingen (Schotel antenne: opties op dak of bij tuinhuis, 
+   + in tv hoek DVB-T en DVB-S aansluitingen (Schotel antenne: opties op dak of bij tuinhuis,
      moet zuidgericht zijn)
 
    + in tv hoek 3 netwerkkabels (een aan de tv op de grond en een voor de wifi
@@ -135,7 +137,7 @@
    + Toegangen bureau/bib met gang wegdoen? Afhankelijk van de gekozen oplossing
      voor de inkomhal.
 
-  
+
 # BOVENVERDIEPING
    Momenteel staat er een keuken waar op het plan dressing staat – zie foto’s –
    achter gekromde gedeelte tegen de badkamer aan.
@@ -160,18 +162,18 @@
     open ruimte rechts en links van de lavabo van 10 cm. De douche muur staat
     meer naar rechts. We zouden de badkamer terug maken zoals op het plan
     voorzien is, dus lavobo en douche wisselen – douche kan dan langer worden –
-    soort inloopdouche maken (maar wel met glaswand - geen echte inloopdouche. 
-    Efficiënter maken door bv handdoekbar (grote handdoeken), bredere douche – 
-    mogelijkheid tot plaatsen douche zeep +
-    badkamerkast voorzien – liefst zwevend + gezien er is nu geen plaats is om
-    scheergerief, borstel, schmink, zeep en zo te leggen + eventueel ander soort
-    lavabo met een spiegelkast
+    soort inloopdouche maken (maar wel met glaswand - geen echte inloopdouche.
+    Efficiënter maken door bv handdoekbar (grote handdoeken), bredere douche –
+    mogelijkheid tot plaatsen douche zeep + badkamerkast voorzien – liefst
+    zwevend + gezien er is nu geen plaats is om scheergerief, borstel, schmink,
+    zeep en zo te leggen + eventueel ander soort lavabo met een spiegelkast
 
   + slaapkamer groot, herstellen muur (Naast kleerkast), is door boring buur
     beschadigd
 
   + inmaakkasten voor de dakkamers – gezien ruimtes niet overal 2m hoog zijn?
-    Efficiënt inrichten?? Willen wel inrichting flexibel maken (wisselen bureau, bed)
+    Efficiënt inrichten?? Willen wel inrichting flexibel maken (wisselen bureau,
+    bed)
 
 # ALGEMEEN
   + Nieuwe vloer zowel onder als boven – we denken aan tegels gezien duurzaam
@@ -191,7 +193,7 @@
     luchtaanvoer buizen van huidige B herbruikbaar (zijn ze breed genoeg – we
     willen geen D systeem met geluidshinder owv te dunne buizen). Ofwel een C+
     systeem (luchtaanvoer is er al door systeem B) met gestuurde afzuiging in
-    badkamer, wc, keuken, garage (vb als licht aangaat via een drukknop en 
+    badkamer, wc, keuken, garage (vb als licht aangaat via een drukknop en
     uitgaat via timer, vochtsensor, aanwezigheidsensor...)
 
   + Rookmelders (van type dat signaal aan elkaar doorgeeft met SVV kabel)
